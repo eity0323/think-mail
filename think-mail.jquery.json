@@ -1,0 +1,26 @@
+{
+  "name": "think-mail",
+  "title": "Think Mail",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sokis/think-mail",
+  "author": {
+    "name": "sokis",
+    "email": "zengyi.zal@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sokis/think-mail.git"
+  },
+  "bugs": "https://github.com/sokis/think-mail/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sokis/think-mail/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
